@@ -1,5 +1,12 @@
 # XML-Parser
 
+### Commands
+
+1. python script.py --gzip sample.xml (To compress)
+2. python script.py --gunzip sample.xml (To Decompress)
+
+### Requirements
+
 1. Parse an XML document. Name of the file to parse should be given as the program argument. Here is an example file:
 
 ```xml
